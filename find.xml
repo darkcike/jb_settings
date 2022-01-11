@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="项目 'lottery_python'" />
-    <option name="defaultScopeName" value="项目 'lottery_python'" />
+    <option name="customScope" value="模块 'lottery_python'" />
+    <option name="defaultScopeName" value="模块 'lottery_python'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="项目 'lottery_python'" />
+    <option name="SEARCH_SCOPE" value="模块 'lottery_python'" />
   </component>
 </application>
