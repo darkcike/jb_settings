@@ -7,9 +7,9 @@
       <mapping pattern="APP_PUB_KEY" type="AUTO_DETECTED" />
       <mapping pattern="图片上传.md" type="PLAIN_TEXT" />
       <mapping pattern="[package-index-options]" type="PLAIN_TEXT" />
-      <mapping ext="kv" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="kv" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
